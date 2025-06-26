@@ -31,7 +31,7 @@ Bienvenue sur mon profil GitHub !
 ### 🛠️ Langages & outils
 
 `Python` | `Batch (.bat)` | `HTML/CSS` | `VBScript`  
-Et je me forme en permanence !
+Pour les autres langages, j'ai besoin d'utiliser leur documentation et des intelligences artificielle
 
 ---
 
