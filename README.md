@@ -1,3 +1,4 @@
+## ⚠️⚠️⚠️ Attention, mon site est encore en création, si il y a des incohérences, des liens obsolètes ou des erreurs de chargement de css, je m'en excuse et travaille dessus...
 ## Salut 👋
 
 Bienvenue sur mon profil GitHub !
