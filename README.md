@@ -29,6 +29,6 @@ Bienvenue sur mon profil GitHub !
 
 ### 🛠️ Langages & outils
 
-`Python` | `Batch (.bat)` | `HTML/CSS` | `VBScript`  
+`Python` | `Batch (.bat)` (avec extension nircmd) | `HTML/CSS` | `VBScript`  
 
 ---
