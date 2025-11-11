@@ -30,9 +30,5 @@ Bienvenue sur mon profil GitHub !
 ### 🛠️ Langages & outils
 
 `Python` | `Batch (.bat)` | `HTML/CSS` | `VBScript`  
-Pour les autres langages, j'ai besoin d'utiliser leur documentation et des intelligences artificielle
 
 ---
-
-👉 Si tu veux explorer mes projets ou en discuter, tu peux passer par https://timotheaoun.github.io/
-
